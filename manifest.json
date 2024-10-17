@@ -1,11 +1,11 @@
 {
-    "name": "registrousuario_2",
-    "short_name": "registrousuario_2",
+    "name": "patterns_codelab",
+    "short_name": "patterns_codelab",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "patrones, registros y otras funciones nuevas, dedica un momento a configurar tu entorno y el proyecto de Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
